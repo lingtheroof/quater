@@ -62,7 +62,7 @@ class Root extends Component {
                         <Route path="/home-v5" component={HomeV5} />
                         <Route path="/home-v6" component={HomeV6} />
                         <Route path="/home-v7" component={HomeV7} />
-                        <Route path="/home-v8" component={HomeV8} />
+                        <Route path="/" component={HomeV8} />
                         <Route path="/home-v9" component={HomeV9} />
                         <Route path="/home-v10" component={HomeV10} />
 
